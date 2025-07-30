@@ -1,0 +1,15 @@
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\bin\Debug\net8.0\OOP_krokPoKroku.exe
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\bin\Debug\net8.0\OOP_krokPoKroku.deps.json
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\bin\Debug\net8.0\OOP_krokPoKroku.runtimeconfig.json
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\bin\Debug\net8.0\OOP_krokPoKroku.dll
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\bin\Debug\net8.0\OOP_krokPoKroku.pdb
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.AssemblyInfoInputs.cache
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.AssemblyInfo.cs
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.csproj.CoreCompileInputs.cache
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.sourcelink.json
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.dll
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\refint\OOP_krokPoKroku.dll
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.pdb
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\OOP_krokPoKroku.genruntimeconfig.cache
+C:\Users\XY\Documents\GitHub\animals-oop-new\OOP_krokPoKroku\OOP_krokPoKroku\obj\Debug\net8.0\ref\OOP_krokPoKroku.dll
